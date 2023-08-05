@@ -1,0 +1,15 @@
+{
+  "repo_name": "posi0nKFD",
+  "repo_desc": "Default posi0nKFD repo",
+  "repo_homepage": "https://github.com/GenericCoding/posi0nKFDRepo",
+  "repo_image": "https://raw.githubusercontent.com/GenericCoding/kfd/main/kfd/Assets.xcassets/AppIcon.appiconset/kfd.png",
+  "objects": {
+    "packages": [
+      {
+        "package_name": "package-3",
+        "package_url": "https://github.com/GenericCoding/posi0nKFDRepo/font.ttf",
+        "package_type": "font"
+      }
+    ]
+  }
+}
